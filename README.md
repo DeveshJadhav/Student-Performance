@@ -2,8 +2,6 @@
 
 Inspiration:
 
-To understand the influence of the parent's background, test preparation etc on students' performance
-
 This project helps us understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Education level of parents, Type of Lunch and if the Test preparation course completed.
 
 Content
